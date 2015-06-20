@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    padding: 10px;
+    background: #d2d7d3;
+    background-image: url(cafe.html)
+}
+h1{
+    color: orangered;
+    background: #f2f1ef;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 250px;
+}
+
+h3{color: brown;}
+p{
+    width: 70%;
+    background: #f5d76e;
+    border-radius: 6px;
+    padding: 5px;
+  
+}
+<li{
+    float: left;
+    margin-bottom: 30px;
+
+}
+h2{color: brown;
+    margin-bottom: 15px;}-->
+div{
+    font-size: 24px;
+    color: #000;
+    background: #e29c45;
+    border: 1px solid #;
+    padding: 8px;
+    text-decoration: none;
+    border-radius: 30px;
+    transition: 1.5s;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    overflow: hidden;
+    width: 200px;
+}
+div:hover{
+    background: red;
+    color: #eeeeee;}
+
+.panel-item{
+    text-decoration: none;
+    overflow: hidden;
+    display: block;
+    width: 200px;
+    height: 200px;
+}
+
+.panel-item:hover img {
+    
+    margin-left: -15% ;
+    margin-top: -15% ;
+    
+    width: 130%;
+    height: 130%;
+    
+    transition: 1.5s ease ;
+}
+
+.slide_button{
+    padding: 5px;
+    width: 180px;
+    height: 30px;
+    background-image: url(images/biwako.jpg);
+    background-size: 420px 5opx;
+    background-position: right;
+    transition: 0.8s;
+    margin-bottom: 10px
+}
+
+.slide_button:hover{
+    transition: 0.5s
+    background-position: left ;
+}
+
+
+
+
+
